@@ -1,4 +1,4 @@
-# Oracle Vendor Classification
+# Vendor Classification using Supervised Contrastive Learning
 
 This repository houses the code for the vendor classification approach using Supervised Contrastive Learning.
 
